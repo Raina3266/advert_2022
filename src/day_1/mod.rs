@@ -18,15 +18,6 @@ pub fn part_1(string: &str) -> i32 {
     // let mut weights: Vec<i32> = vec![];
     // let mut current_weight = 0;
 
-    // for calories in food {
-    //     if calories.is_empty() {
-    //         weights.push(current_weight);
-    //         current_weight = 0;
-    //         continue;
-    //     }
-    //     current_weight += calories.parse::<i32>().unwrap();
-    // }
-    // weights.into_iter().max().unwrap()
 }
 
 #[test]

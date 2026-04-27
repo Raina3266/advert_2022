@@ -3,7 +3,10 @@ use std::io;
 mod day_1;
 mod day_2;
 mod day_3;
+mod day_4;
+mod day_4_improve;
+mod day_5;
 
 fn main() {
-   day_1::part_2(day_1::INPUT);
+   day_3::part_1(day_3::INPUT);
 }
