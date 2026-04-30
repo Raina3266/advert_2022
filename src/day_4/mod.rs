@@ -2,6 +2,9 @@
 const TEST_INPUT: &str = include_str!("./test_input.txt");
 pub const INPUT: &str = include_str!("./input.txt");
 
+// here: https://adventofcode.com/2022/day/4
+
+
 pub fn part_1(string: &str) -> i32 {
     let mut count = 0;
     for pair in string.lines() {
